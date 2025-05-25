@@ -1,0 +1,26 @@
+{
+    "title": {
+        "list": "Sub Menu Management",
+        "add": "Add New Sub Menu",
+        "edit": "Edit Sub Menu",
+        "view": "View Detail Sub Menu"
+    },
+    "label": {
+        "subMenuName": "Sub Menu Name",
+        "subMenuType": "Sub Menu Type",
+        "system": "System",
+        "service": "Service",
+        "type": "Type",
+        "menuApi": "Menu API",
+        "listActionOfSubMenu": "List Action Of Sub Menu",
+        "action": "Action",
+        "description": "Description"
+    },
+    "question": {
+        "publish": "Are you sure you want to publish this record?",
+        "delete": "Are you sure you want to delete this record?"
+    },
+    "placeholder": {
+        "subMenuName": "Search By Sub Menu Name"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "table": {
+    "permissionName": "Tên",
+    "alias": "Alias",
+    "method": "Method",
+    "endpoint": "Endpoint",
+    "feature": "Tính năng",
+    "system": "Hệ thống",
+    "status": "Trạng thái",
+    "action": "Hành động"
+  }
+}

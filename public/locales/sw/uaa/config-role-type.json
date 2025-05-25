@@ -1,0 +1,18 @@
+{
+    "filter":{
+        "system":"System",
+        "permission":"Permission Group",
+        "search":"Search"
+    },
+    "title":{
+        "config":"Config Role Type",
+        "create":"Add new config",
+        "edit":"Edit config"
+    },
+    "form":{
+        "system":"System",
+        "permission":"Permission Group",
+        "roleType":"Role Type",
+        "tier":"Tier"
+    }
+}

@@ -1,0 +1,4 @@
+.otp_input:focus{
+    outline: none !important;
+    border-color: red;
+}

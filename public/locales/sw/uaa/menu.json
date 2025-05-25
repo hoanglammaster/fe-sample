@@ -1,0 +1,32 @@
+{
+    "text":{
+        "system":"System",
+        "platform":"Platform",
+        "add":"Create menu for the system"
+    },
+    "title":{
+        "page":"Menu configuration",
+        "create":"Add New",
+        "edit":"Update"
+        
+    },
+    "column":{
+        "system":"System",
+        "platform":"Platform",
+        "action":"Action"
+    },
+    "label":{
+        "menuSearch":"Search Menu",
+        "enterKeyword":"Search by Sub Menu",
+        "location":"Menu location",
+        "name":"Menu name",
+        "type":"Menu type",
+        "url":"Url path",
+        "permission":"Permission",
+        "icon":"Icon",
+        "allowShare":"Allow sharing menu",
+        "updateMenu":"Update Menu",
+        "createMenu":"Add new",
+        "save":"Save"
+    }
+}

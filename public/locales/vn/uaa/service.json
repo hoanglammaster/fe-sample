@@ -1,0 +1,41 @@
+{
+  "title": {
+    "system": "Hệ thống",
+    "listService": "Danh sách Service",
+    "addService": "Thêm mới service",
+    "updateService": "Chỉnh sửa service"
+  },
+  "table": {
+    "serviceCode": "Mã service",
+    "serviceName": "Tên service",
+    "urlRef": "Url reference",
+    "description": "Mô tả",
+    "status": "Trạng thái",
+    "action": "Hành động",
+    "active": "Active",
+    "inactive": "Inactive"
+  },
+  "button": {
+    "add": "Thêm mới"
+  },
+  "form": {
+    "serviceCode": "Mã service",
+    "serviceName": "Tên service",
+    "urlRef": "Url reference",
+    "description": "Mô tả",
+    "status": "Status",
+    "cancel": "Hủy bỏ",
+    "add": "Thêm mới",
+    "save": "Lưu"
+  },
+  "rules": {
+    "required": "Thông tin bắt buộc",
+    "alias": "Mã service không hợp lệ",
+    "name": "Tên service không hợp lệ",
+    "url": "URL reference không hợp lệ"
+  },
+  "question": {
+    "publish": "Bạn có muốn publish service này không ?",
+    "delete": "Bạn có muốn xoá service này không?"
+  }
+}

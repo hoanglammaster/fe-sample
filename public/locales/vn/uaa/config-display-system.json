@@ -1,0 +1,19 @@
+{
+  "title": {
+    "title": "Cấu hình",
+    "page": "Danh sách",
+    "add": "Thêm mới",
+    "title_new": "Quản lý menu",
+    "box": "Thêm mới menu hiển thị tại dashboard"
+  },
+  "column": {
+    "system": "Hệ thống",
+    "menu": "Menu hiển thị trên dashboard",
+    "content": "Nội dung",
+    "action": "Hành động"
+  },
+  "btn": {
+    "cancel": "Hủy bỏ",
+    "add": "Thêm mới"
+  }
+}

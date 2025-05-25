@@ -1,0 +1,12 @@
+{
+  "table": {
+    "permissionName": "Name",
+    "alias": "Alias",
+    "method": "Method",
+    "endpoint": "Endpoint",
+    "feature": "Feature",
+    "system": "System",
+    "status": "Status",
+    "action": "Action"
+  }
+}

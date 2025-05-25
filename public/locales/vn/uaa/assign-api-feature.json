@@ -1,0 +1,25 @@
+{
+  "title": {
+    "title": "Hệ thống",
+    "page": "Gán API cho feature",
+    "add": "Gán API cho Feature",
+    "update": "Gán API cho Feature"
+  },
+  "column": {
+    "api": "API",
+    "feature": "Feature",
+    "action": "Hành động"
+  },
+  "label": {
+    "feature": "Feature"
+  },
+  "placeholder": {
+    "feature": "Chọn feature"
+  },
+  "btn": {
+    "add": "Thêm mới",
+    "update": "Chỉnh sửa",
+    "back": "Trở về",
+    "cancel": "Hủy bỏ"
+  }
+}

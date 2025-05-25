@@ -1,0 +1,25 @@
+{
+  "title": {
+    "title": "Cấu hình",
+    "page": "Danh sách Menu",
+    "add": "Tạo menu cho hệ thống",
+    "title_new": "Quản lý menu",
+    "update": "Chỉnh sửa"
+  },
+  "column": {
+    "system": "Hệ thống",
+    "platform": "Platform",
+    "action": "Hành động"
+  },
+  "btn": {
+    "add": "Thêm mới",
+    "cancel": "Hủy bỏ",
+    "click": "Thêm mới menu",
+    "update": "Chỉnh sửa",
+    "confirm": "Xác nhận"
+  },
+  "text": {
+    "system": "Hệ thống: ",
+    "platform": "Platform: "
+  }
+}

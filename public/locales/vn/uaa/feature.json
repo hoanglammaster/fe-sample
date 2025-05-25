@@ -1,0 +1,47 @@
+{
+  "title": {
+    "system": "Hệ thống",
+    "listFeature": "Danh sách Feature",
+    "addFeature": "Thêm mới feature",
+    "updateFeature": "Chỉnh sửa feature"
+  },
+  "table": {
+    "featureCode": "Mã feature",
+    "featureName": "Tên feature",
+    "description": "Mô tả",
+    "status": "Trạng thái",
+    "action": "Hành động",
+    "active": "Active",
+    "inactive": "Inactive"
+  },
+  "button": {
+    "add": "Thêm mới",
+    "addApi": "Thêm api"
+  },
+  "form": {
+    "featureCode": "Mã feature",
+    "featureName": "Tên feature",
+    "description": "Mô tả",
+    "status": "Status",
+    "cancel": "Hủy bỏ",
+    "add": "Thêm mới",
+    "save": "Lưu",
+    "api":"Api",
+    "service":"Service",
+    "system":"System",
+    "type":"Type",
+    "listApi": "Danh sách API"
+  },
+  "rules": {
+    "required": "Thông tin bắt buộc",
+    "alias": "Mã feature cho phép các kí tự chữ, số và kí tự -,_"
+  },
+  "question": {
+    "publish": "Bạn có muốn publish feature này không?",
+    "delete": "Bạn có muốn xoá feature này không?"
+  },
+  "validate": {
+    "featureCode": "Mã Feature không hợp lệ",
+    "featureName": "Tên feature không hợp lệ"
+  }
+}

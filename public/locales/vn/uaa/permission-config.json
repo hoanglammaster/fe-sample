@@ -1,0 +1,63 @@
+{
+  "title": {
+    "title": "Tài khoản",
+    "page": "Danh sách quyền",
+    "list-user-dialog": "Danh sách nhân viên có quyền : ",
+    "detailRole": "Xem chi tiết nhóm quyền {{name}}",
+    "detailProduct": "Hệ thống {{name}}"
+  },
+  "column": {
+    "name": "Hệ thống",
+    "roleName": "Tên nhóm quyền",
+    "number_user": "Số lượng người dùng",
+    "action": "Số lượng người dùng",
+    "staff_code": "Mã nhân viên",
+    "phone_number": "Số điện thoại",
+    "email": "Email",
+    "permission_group": "Nhóm quyền",
+    "level": "Role level"
+  },
+  "table": {
+    "no-data": "Không có dữ liệu"
+  },
+  "label": {
+    "name": "Tên nhóm quyền",
+    "system": "Hệ thống",
+    "code": "Mã nhóm quyền",
+    "status": "Trạng thái",
+    "level": "Role level"
+  },
+  "placeholder": {
+    "name": "Nhập tên",
+    "system": "Chọn hệ thống",
+    "alias": "Nhập mã hệ thống",
+    "level": "Role level",
+    "keyword": "Từ khoá"
+  },
+  "rules": {
+    "required": "Thông tin bắt buộc",
+    "alias": "Chỉ được phép nhập ký tự chữ không dấu, số, ký tự '-' và '_' "
+  },
+  "search": {
+    "name": "Tìm kiếm...",
+    "system": "Hệ thống",
+    "permission_group": "Nhóm quyền",
+    "search": "Tìm kiếm"
+  },
+  "btn": {
+    "add": "Thêm mới",
+    "update": "Chỉnh sửa",
+    "add_role": "Thêm nhóm quyền",
+    "update_role": "Sửa nhóm quyền",
+    "back": "Trở về",
+    "cancel": "Hủy bỏ"
+  },
+  "question": {
+    "publish": "Bạn có muôn publish nhóm quyền này không?",
+    "delete": "Bạn có muôn xoá nhóm quyền này không?"
+  },
+  "validate": {
+    "permissionCode": "Mã nhóm quyền không hợp lệ",
+    "permissionName": "Tên nhóm quyền không hợp lệ"
+  }
+}

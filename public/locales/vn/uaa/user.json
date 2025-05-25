@@ -1,0 +1,46 @@
+{
+  "title": {
+    "account": "Tài khoản",
+    "listAccount": "Danh sách tài khoản nhân viên",
+    "addAccount": "Tạo tài khoản cho nhân viên",
+    "companyPermission": "Danh sách quyền công ty",
+    "editAccount": "Chỉnh sửa tài khoản cho nhân viên",
+    "status": "Trạng thái"
+  },
+  "label": {
+    "username": "Username",
+    "password": "Mật khẩu",
+    "firstName": "Họ",
+    "re_password": "Nhập lại mật khẩu",
+    "groupPermisison": "Nhóm quyền",
+    "addAccount": "Thêm mới tài khoản",
+    "updateAccount": "Chỉnh sửa tài khoản",
+    "phoneNumber": "Số điện thoại",
+    "email": "Email",
+    "name": "Last name",
+    "gender": "Giới tính",
+    "system": "Hệ thống",
+    "role": "Nhóm quyền"
+  },
+
+  "table": {
+    "staff": "Nhân viên",
+    "username": "Username",
+    "permissionGroup": "Nhóm quyền",
+    "product": "Hệ thống",
+    "action": "Hành động",
+    "status": "Trạng thái"
+  },
+  "button": {
+    "add": "Thêm mới",
+    "save": "Lưu",
+    "cancel": "Hủy bỏ"
+  },
+  "validation": {
+    "username": "Username không đúng định dạng",
+    "label": "Bắt buộc phải nhập 1 trong 3 thông tin đăng nhập sau: Email, Username hoặc Số điện thoại",
+    "password": "Mật khẩu không hợp lệ",
+    "firstName": "Tên không hợp lệ",
+    "lastName": "Họ không hợp lệ"
+  }
+}

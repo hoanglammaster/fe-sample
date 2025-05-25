@@ -1,0 +1,13 @@
+{
+  "title": "Config Management",
+  "search": "Search By Filter",
+  "configGroupName": "Config Group Name",
+  "configKey": "Config Key",
+  "value": "Value",
+  "dataType": "Datatype",
+  "defaultValue": "Default Value",
+  "description": "Description",
+  "placeholder": {
+    "search": "Search By Config Key"
+  }
+}

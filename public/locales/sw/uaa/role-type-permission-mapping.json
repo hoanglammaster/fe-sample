@@ -1,0 +1,90 @@
+{
+    "title": {
+      "title": "Role Type - Permission Group Mapping",
+      "page": "Role Type - Permission Group Mapping",
+      "add": "Add new Role Type - Permission Group Mapping",
+      "update": "Edit Role Type - Permission Group Mapping",
+      "view": "View detail Role Type - Permission Group Mapping"
+      
+    },
+    "form":{
+      "save":"Save",
+      "cancel":"Cancel",
+      "permissionCode":"Permission Code",
+      "permissionName":"Permission Name"
+    },
+    "table":{
+      "client":"Client",
+      "type":"Type",
+      "createdAt":"Created At",
+      "createdBy":"Created By",
+      "action":"Action",
+      "roleTypeName":"Role Type Name",
+      "tierName":"Tier Name"
+    },
+    "column": {
+      "code": "System code",
+      "name": "System name",
+      "description": "Description",
+      "status": "Status",
+      "action": "Action",
+      "active": "Active",
+      "inactive": "Inactive",
+      "type": "System type",
+      "role": "Role type",
+      "createAt":"Created at",
+      "createBy":"Created by"
+    },
+    "rules": {
+      "required": "Required information",
+      "alias": "System code allows letters, numbers, and characters -, _"
+    },
+    "filter":{
+      "title":"Search by filter"
+    },
+    "label": {
+      "code": "System code",
+      "name": "System name",
+      "description": "Description",
+      "picture": "Picture",
+      "type":"Type",
+      "link":"Url",
+      "listPermission":"List of Permission Group",
+      "listPermissionPlaceholder":"Search by System or Permission Group",
+      "listPermissionSelected":"List of Selected Permission Group",
+      "roleType":"Role Type",
+      "tier":"Tier",
+      "permission":"Permission Group",
+      "system":"System"
+    },
+    "placeholder": {
+      "code": "System code",
+      "name": "Enter system name",
+      "description": "Enter description",
+      "search":"Search by System Code or Name"
+    },
+    "table-scope": {
+      "title": "Feature list",
+      "code": "Scope Code",
+      "name": "Scope Name"
+    },
+    "btn": {
+      "add": "Add new",
+      "update": "Save",
+      "back": "Back",
+      "cancel": "Cancel",
+      "save":"Save"
+    },
+    "question": {
+      "publish": "Are you sure you want to publish this record?",
+      "delete": "Are you sure you want to delete this record?"
+    },
+    "validate": {
+      "systemCode": "System code is invalid",
+      "systemName": "System name is invalid",
+      "pleaseEnterSystemName": "Please enter system name",
+      "pleaseEnterUrl":"Please enter Url",
+      "invalidUrl":"Url is invalid"
+    }
+  }
+  

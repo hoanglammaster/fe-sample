@@ -1,0 +1,22 @@
+{
+    "title" : {
+        "title" : "Action Management",
+        "addNew": "Add New Action",
+        "view": "View Detail Action",
+        "edit" : "Edit Action"
+    },
+    "label" : {
+        "action": "Action",
+        "actionCode": "Action Code",
+        "actionName": "Action Name",
+        "sequenceNumber": "Sequence Number Is Displayed",
+        "description" : "Description"
+    },
+    "placeholder":{
+        "search":"Search By Action Code Or Name"
+        },
+    "question": {
+        "publish": "Are you sure you want to publish this action?",
+        "delete": "Are you sure you want to delete this action?"
+    }
+}

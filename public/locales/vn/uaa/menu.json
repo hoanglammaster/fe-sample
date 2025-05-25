@@ -1,0 +1,13 @@
+{
+    "config":"Cấu hình",
+    "listMenu":"Danh sách menu",
+    "createMenuConfig":"Tạo menu cho hệ thống",
+    "system":"Hệ thống",
+    "platform":"Platform",
+    "action":"Hành động",
+    "column":{
+        "system":"Hệ thống",
+        "platform":"Platform",
+        "action":"Hành động"
+    }
+}

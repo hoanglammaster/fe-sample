@@ -1,0 +1,42 @@
+{
+    "text":{
+        "system":"System",
+        "platform":"Platform",
+        "add":"Create menu for the system"
+    },
+    "title":{
+        "page":"Menu Config Management",
+        "create":"Add New",
+        "edit":"Update",
+        "addNew":"Add New For {{name}}",
+        "update":"Edit For {{name}}",
+        "view":"View Menu Config Management"
+        
+    },
+    "column":{
+        "system":"System",
+        "platform":"Platform",
+        "action":"Action",
+        "location": "Menu Location",
+        "status": "Status"
+    },
+    "label":{
+        "menuSearch":"Search Menu",
+        "enterKeyword":"Search by Sub Menu",
+        "location":"Menu Location",
+        "name":"Menu name",
+        "type":"Menu type",
+        "url":"Url path",
+        "permission":"Permission",
+        "icon":"Icon",
+        "allowShare":"Allow sharing menu",
+        "updateMenu":"Update Menu",
+        "createMenu":"Add new",
+        "save":"Save",
+        "deleteConfirm":"Are you sure you want to delete this menu config?"
+    },
+    "question":{
+        "publish":"Are you sure you want to publish this menu config?",
+        "delete":"Are you sure you want to delete this menu config?"
+    }
+}

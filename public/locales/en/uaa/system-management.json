@@ -1,0 +1,69 @@
+{
+  "title": {
+    "title": "System",
+    "page": "System Management",
+    "add": "Add New System",
+    "update": "Edit System",
+    "view": "View Detail System"
+  },
+  "column": {
+    "code": "System Code",
+    "name": "System Name",
+    "description": "Description",
+    "status": "Status",
+    "action": "Action",
+    "active": "Active",
+    "inactive": "Inactive",
+    "type": "System type",
+    "role": "Role Type",
+    "createAt":"Created at",
+    "createBy":"Created by"
+  },
+  "rules": {
+    "required": "Required information",
+    "alias": "System code allows letters, numbers, and characters -, _"
+  },
+  "filter":{
+    "title":"Search by filter"
+  },
+  "label": {
+    "code": "System Code",
+    "name": "System Name",
+    "description": "Description",
+    "picture": "Picture",
+    "type":"Type",
+    "link":"Url",
+    "img": "Image",
+    "noImg": "No Image",
+    "accessChannel":"Access Chanel"
+  },
+  "placeholder": {
+    "code": "System code",
+    "name": "Enter system name",
+    "description": "Enter description",
+    "search":"Search by System Code or Name"
+  },
+  "table-feature": {
+    "title": "Feature list",
+    "code": "Feature code",
+    "name": "Feature name"
+  },
+  "btn": {
+    "add": "Add new",
+    "update": "Save",
+    "back": "Back",
+    "cancel": "Cancel",
+    "save":"Save"
+  },
+  "question": {
+    "publish": "Are you sure you want to publish this record?",
+    "delete": "Are you sure you want to delete this record?"
+  },
+  "validate": {
+    "systemCode": "System code is invalid",
+    "systemName": "System name is invalid",
+    "pleaseEnterSystemName": "Please enter system name",
+    "pleaseEnterUrl":"Please enter Url",
+    "invalidUrl":"Url is invalid"
+  }
+}

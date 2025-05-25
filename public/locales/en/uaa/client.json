@@ -1,0 +1,38 @@
+{
+    "title":{
+        "list": "Client Management",
+        "add":"Add New Client",
+        "edit":"Edit Client",
+        "view":"View Detail Client"
+    },
+    "label":{
+        "partner":"Partner",
+        "internal":"Internal",
+        "external":"External",
+        "type":"Type",
+        "clientCode":"Client Code",
+        "clientName":"Client Name",
+        "representative":"Representative",
+        "email":"Email",
+        "description":"Description",
+        "authen":"Authentication",
+        "authenticationType":"Authentication Type",
+        "clientCre":"Client Credential",
+        "whitelistIp":"Whitelist IP",
+        "accessToken":"Access Token Expiration Time",
+        "refreshToken":"Refresh Token Expiration Time",
+        "clientId":"Client ID",
+        "clientSecret":"Client Secret",
+        "second":"Second",
+        "autoGen":"Auto Gen",
+        "service": "Service",
+        "clickAutoGen": "Click Auto Gen to generate code",
+        "ipAddress":"IP Address",
+        "usingIpAddress":"Use Whitelist IP",
+        "listIP":"List of Whitelist IP"
+    },
+    "question":{
+        "publish":"Are you sure you want to publish this record?",
+        "delete":"Are you sure you want to delete this record?"
+    }
+}

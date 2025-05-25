@@ -1,0 +1,71 @@
+{
+  "title": {
+    "account": "Account",
+    "listAccount": "User management",
+    "addAccount": "Add new User",
+    "companyPermission": "List of Company Permissions",
+    "editAccount": "Edit User",
+    "viewAccount": "View Detail User",
+    "status": "Status"
+  },
+  "label": {
+    "userId": "User ID",
+    "user": "user",
+    "username": "Username",
+    "password": "Password",
+    "firstName": "First Name",
+    "re_password": "Re-enter Password",
+    "groupPermisison": "Permission Group",
+    "addAccount": "Add New Account",
+    "updateAccount": "Edit Account",
+    "phoneNumber": "Phone Number",
+    "phoneNumberOtp": "Phone Number OTP",
+    "phoneNumberSms": "Phone Number To Receive SMS",
+    "email": "Email",
+    "name": "Last Name",
+    "gender": "Gender",
+    "system": "System",
+    "role": "Permission Group",
+    "roleType": "Role Type",
+    "tier": "Tier",
+    "autoPassword": "Automatically generate password",
+    "resetPassword": "Reset password",
+    "newPassword": "New password",
+    "reEnterPassword": "Re-enter new password",
+    "language": "Language Default",
+    "status": "Status",
+    "lock": "Do you want to lock this user?",
+    "resetPasswordDialog": "Are you sure you want to reset password the information this account?",
+    "noteResetPassword": "Note: new password will be sent to <phone_number> via SMS"
+  },
+  "table": {
+    "staff": "Fullname",
+    "username": "Username",
+    "permissionGroup": "Permission group name",
+    "product": "System",
+    "action": "Action",
+    "status": "Status",
+    "userId": "User ID"
+  },
+  "button": {
+    "add": "Add",
+    "save": "Save",
+    "cancel": "Cancel",
+    "resetPassword": "Reset password"
+  },
+  "validation": {
+    "username": "Username is invalid",
+    "label": "Required to enter 1 of the following 3 login information: Email, Username or Phone number",
+    "password": "Password is invalid",
+    "rePassword": "Re Enter password is invalid",
+    "firstName": "First name is invalid",
+    "lastName": "Last name is invalid",
+    "phone": "Phone number to receive SMS is invalid"
+  },
+  "search": {
+    "name": "Staff's name",
+    "permission": "Permission group name",
+    "search": "Search",
+    "searchName": "Search by Fullname"
+  }
+}

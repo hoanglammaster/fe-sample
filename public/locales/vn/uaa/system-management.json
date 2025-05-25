@@ -1,0 +1,54 @@
+{
+  "title": {
+    "title": "Hệ thống",
+    "page": "Danh sách hệ thống",
+    "add": "Thêm mới hệ thống",
+    "update": "Chỉnh sửa hệ thống",
+    "view": "Xem chi tiết hệ thống"
+  },
+  "column": {
+    "code": "Mã hệ thống",
+    "name": "Tên hệ thống",
+    "description": "Mô tả",
+    "status": "Trạng thái",
+    "action": "Hành động",
+    "active": "Active",
+    "inactive": "Inactive",
+    "type": "Loại hệ thống",
+    "role": "Loại quyền"
+  },
+  "rules": {
+    "required": "Thông tin bắt buộc",
+    "alias": "Mã hệ thống cho phép các kí tự chữ, số và kí tự -,_"
+  },
+  "label": {
+    "code": "Mã hệ thống",
+    "name": "Tên hệ thống",
+    "description": "Mô tả",
+    "picture": "Hình ảnh"
+  },
+  "placeholder": {
+    "code": "Mã hệ thống",
+    "name": "Nhập tên hệ thống",
+    "description": "Nhập mô tả"
+  },
+  "table-feature": {
+    "title": "Danh sách Feature",
+    "code": "Mã Feature",
+    "name": "Tên Feature"
+  },
+  "btn": {
+    "add": "Thêm mới",
+    "update": "Chỉnh sửa",
+    "back": "Trở về",
+    "cancel": "Hủy bỏ"
+  },
+  "question": {
+    "publish": "Bạn có muốn publish system này không ?",
+    "delete": "Bạn có muốn xoá system này không ?"
+  },
+  "validate": {
+    "systemCode": "System code không hợp lệ",
+    "systemName": "System name không hợp lệ"
+  }
+}

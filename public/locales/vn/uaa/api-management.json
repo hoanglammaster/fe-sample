@@ -1,0 +1,57 @@
+{
+  "title": {
+    "title": "Hệ thống",
+    "page": "Danh sách API",
+    "add": "Thêm mới API",
+    "update": "Chỉnh sửa API"
+  },
+  "column": {
+    "code": "Mã API",
+    "name": "Tên API",
+    "serviceUrl": "Service Url",
+    "endpoint": "Endpoint",
+    "method": "Method",
+    "description": "Mô tả",
+    "status": "Trạng thái",
+    "action": "Hành động"
+  },
+  "label": {
+    "code": "Mã API",
+    "name": "Tên API",
+    "endpoint": "Endpoint",
+    "service": "Service",
+    "description": "Mô tả",
+    "method": "Method",
+    "status": "Trạng thái",
+    "type": "Kiểu",
+    "unauthorized": "Không cần phân quyền",
+    "search": "Tìm kiếm"
+
+  },
+  "placeholder": {
+    "code": "Mã API",
+    "name": "Nhập tên API",
+    "service": "Chọn service",
+    "endpoint": "Nhập endpoint",
+    "description": "Nhập mô tả",
+    "method": "Chọn method",
+    "search": "Tìm kiếm theo API code hoặc tên"
+
+  },
+  "btn": {
+    "add": "Thêm mới",
+    "update": "Chỉnh sửa",
+    "back": "Trở về",
+    "cancel": "Hủy bỏ",
+    "save": "Lưu"
+  },
+  "question": {
+    "publish": "Bạn có muốn publish api này không?",
+    "delete": "Bạn có muốn xoá api này không?"
+  },
+  "validate": {
+    "apiCode": "API code không hợp lệ",
+    "apiName": "API name không hợp lệ",
+    "endPoint": "Please enter Endpoint"
+  }
+}

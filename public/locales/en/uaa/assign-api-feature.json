@@ -1,0 +1,25 @@
+{
+  "title": {
+    "title": "System",
+    "page": "Assign API to Feature",
+    "add": "Assign API to Feature",
+    "update": "Assign API to Feature"
+  },
+  "column": {
+    "api": "API",
+    "feature": "Feature",
+    "action": "Action"
+  },
+  "label": {
+    "feature": "Feature"
+  },
+  "placeholder": {
+    "feature": "Select feature"
+  },
+  "btn": {
+    "add": "Add new",
+    "update": "Edit",
+    "back": "Back",
+    "cancel": "Cancel"
+  }
+}
